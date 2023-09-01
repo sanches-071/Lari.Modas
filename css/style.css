@@ -3,6 +3,8 @@
 @import "promo.css";
 @import "msc.css";
 @import "revendedor.css";
+@import "cell.css";
+
 body {
   margin: 0px;
   font-family: Arial, Helvetica, sans-serif;
